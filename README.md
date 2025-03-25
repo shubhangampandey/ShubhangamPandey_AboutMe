@@ -31,7 +31,7 @@ I have designed and implemented microservices architectures, enhancing system sc
 This approach allows for the development of modular services that can be deployed and scaled independently.​
 
 📊 GitHub Stats :
-shubhangampandey
+![Octocat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhangampandey_icons=true&theme=radical)
 📫 Contact Me
 Email: shubhangampandey1@gmail.com
 
