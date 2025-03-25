@@ -6,7 +6,8 @@ I design and implement scalable solutions tailored to client needs.​
 
 🛠️ Technical Skills :
 Languages: C, C++, Java, Python, JavaScript, CSS3​
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhangampandey&layout=compact&theme=radical)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhangampandey&layout=compact&theme=dracula)
 
 
 Front-End: React.js, HTML5, CSS3​
