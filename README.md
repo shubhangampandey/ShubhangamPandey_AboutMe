@@ -12,13 +12,10 @@ Languages: C, C++, Java, Python, JavaScript, CSS3​
 
 Front-End: React.js, HTML5, CSS3​
 
-Back-End: Node.js, Express.js, Spring Boot​
+Back-End: Node.js, Express.js
 
 Databases: MongoDB, MySQL​
 
-🔹 Microservices Expertise :
-I have designed and implemented microservices architectures, enhancing system scalability and maintainability for various clients.
-This approach allows for the development of modular services that can be deployed and scaled independently.​
 
 📊 GitHub Stats :
 
@@ -32,6 +29,4 @@ This approach allows for the development of modular services that can be deploye
 📫 Contact Me
 Email: shubhangampandey1@gmail.com
 
-LinkedIn: Soon
 
-Portfolio: Soon
